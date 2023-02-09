@@ -36,5 +36,5 @@ https.get(url,function(response){
 
 
 app.listen(3000, function(){
-    console.log("server is runnin gon port 3000");
+    console.log("server is running on port 3000");
 });
